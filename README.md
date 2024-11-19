@@ -5,6 +5,11 @@ The MySQL database for the Language Learning App is the core for managing users,
 
 **Note**: For more details about the app’s features and screens, refer to the `DESIGN-README.md`.
 
+This project is part of a larger system and relies on the following repositories:
+- [React Frontend Repository](https://github.com/skotla1509/lingua-learn-react-app) 
+- [Node.js Backend Repository](https://github.com/skotla1509/lingua-learn-node-app) 
+- [MySQL Database Repository](https://github.com/skotla1509/lingua-learn-db) 
+
 ---
 
 ## Table of Contents
