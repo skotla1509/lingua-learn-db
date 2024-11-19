@@ -108,8 +108,10 @@ Here’s a list of the stored procedures in the database with brief descriptions
 ---
 
 ## Conceptual Design
+![image](https://github.com/user-attachments/assets/a2d7d550-7e0b-4309-81f9-b5546577b72a)
 
 ## Logical Design
+![image](https://github.com/user-attachments/assets/56ffeb46-2474-4b7d-a728-ba3a1c09acdd)
 
 ---
 
